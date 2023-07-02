@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/the-locals/static/css/main.29386509.css",
+    "main.js": "/the-locals/static/js/main.c047d84d.js",
+    "static/js/787.7d7d5ca2.chunk.js": "/the-locals/static/js/787.7d7d5ca2.chunk.js",
+    "static/media/chantecler.png": "/the-locals/static/media/chantecler.2af61419ffae7e758e84.png",
+    "static/media/cherry.png": "/the-locals/static/media/cherry.5f6a299a9ff0573eb1e6.png",
+    "static/media/actinolite.png": "/the-locals/static/media/actinolite.cced1c79343ce272b52a.png",
+    "static/media/barraval.png": "/the-locals/static/media/barraval.2274c6ff051ba8326160.png",
+    "static/media/skippa.png": "/the-locals/static/media/skippa.5966bde2e29f32e2afb8.png",
+    "static/media/nightc.jpg": "/the-locals/static/media/nightc.47bec0a39c9da3f39278.jpg",
+    "static/media/foodc.webp": "/the-locals/static/media/foodc.63a91ad9eaf54a8718ba.webp",
+    "static/media/onmap.png": "/the-locals/static/media/onmap.bfd0589e3a1f3a217174.png",
+    "static/media/shopc.webp": "/the-locals/static/media/shopc.cf275687e890181a3536.webp",
+    "static/media/piano.webp": "/the-locals/static/media/piano.da9e0d581bf2787b7d7b.webp",
+    "static/media/attractc.jpg": "/the-locals/static/media/attractc.cfb99831b712a5020fc4.jpg",
+    "static/media/jewel.jpg": "/the-locals/static/media/jewel.040d92d03af0aa7c2391.jpg",
+    "static/media/b.jpg": "/the-locals/static/media/b.7aa849ac156427824ebc.jpg",
+    "static/media/u1.jpg": "/the-locals/static/media/u1.43e2bf80b188eb539995.jpg",
+    "static/media/filler.jpg": "/the-locals/static/media/filler.29535bb49e537eaa7db1.jpg",
+    "static/media/u5.jpg": "/the-locals/static/media/u5.efb7d0bc5d7aa09ca92c.jpg",
+    "static/media/u8.jpg": "/the-locals/static/media/u8.739138e51a32dc3c5274.jpg",
+    "static/media/u6.jpg": "/the-locals/static/media/u6.ffd84f9d12cbca6e57a6.jpg",
+    "static/media/u4.jpg": "/the-locals/static/media/u4.42426f2e7e63635bfce3.jpg",
+    "static/media/dp.jpg": "/the-locals/static/media/dp.65de11d2d42eb2001c74.jpg",
+    "static/media/u3.jpg": "/the-locals/static/media/u3.af0b3b170cd3347b03d1.jpg",
+    "static/media/u9.jpg": "/the-locals/static/media/u9.c92acca4be4d5c7c59e4.jpg",
+    "static/media/u2.jpg": "/the-locals/static/media/u2.6a73e74cc7f9837de600.jpg",
+    "index.html": "/the-locals/index.html",
+    "main.29386509.css.map": "/the-locals/static/css/main.29386509.css.map",
+    "main.c047d84d.js.map": "/the-locals/static/js/main.c047d84d.js.map",
+    "787.7d7d5ca2.chunk.js.map": "/the-locals/static/js/787.7d7d5ca2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29386509.css",
+    "static/js/main.c047d84d.js"
+  ]
+}
